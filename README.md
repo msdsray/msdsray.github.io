@@ -1,2 +1,2 @@
-# optimize
-Google Optimize Playground
+# Google Optimize Playground
+Page for trying out Google Optimize
